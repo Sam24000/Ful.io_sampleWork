@@ -1,0 +1,12 @@
+A. What is reverse-i-search in a Linux terminal?
+It's a convenient way to locate and reuse commands you've previously entered without having to scroll through your entire command history.
+
+B. How do you list out the hidden directories using Linux command line tool?
+To list out hidden directories using the Linux command line, you can use the ls command with the -a or --all option. 
+
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+I am familiar with basic commands of linux, system administration tasks, and software installation processes. As fresher i am a learner and i hope it will help me to improve my learning.
+
+D. Have you ever used Servers to host any web applications in the past? If yes, what
+services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+I am familiar with Apache, FTP, and SMTP servers. I used Apache and i am more comfortable with it.
